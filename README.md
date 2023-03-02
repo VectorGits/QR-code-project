@@ -21,13 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.images/Screenshot.jpg)
+![](./images/Screenshot.jpg)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR code component](http://vectorspage.me/QR-code-project/)
 
 ## My process
 
@@ -38,9 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -59,13 +56,11 @@ I learned to add box shadows to divs, to give them the card illusion. It's prett
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will add functionality to this site in future...
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -75,14 +70,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Vector](https://www.your-site.com)
+- Website - [Vector](http://vectorspage.me/QR-code-project/)
 - Frontend Mentor - [@VectorGits](https://www.frontendmentor.io/profile/VectorGits)
 - Twitter - [@Vector_keen](https://twitter.com/Vector_keen)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I probably wouldn't have found out about front-end mentor projects without the help of Kevin powell (One of his many courses)
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
