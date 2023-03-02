@@ -1,2 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+p {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+    height: 500px;
+    
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.qr-box {
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+.qr-code {
+    width: 90%;
+    align-items: center;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid blue;
+}
+
+.text {
+
+}
+
+
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
